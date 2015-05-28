@@ -1,0 +1,175 @@
+
+Kart.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+goal
+  rotate: false
+  xy: 2, 187
+  size: 480, 44
+  orig: 480, 44
+  offset: 0, 0
+  index: -1
+fissure
+  rotate: false
+  xy: 2, 145
+  size: 400, 40
+  orig: 400, 40
+  offset: 0, 0
+  index: -1
+cactus
+  rotate: false
+  xy: 2, 3
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+bushg
+  rotate: false
+  xy: 74, 78
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+Yellow
+  rotate: false
+  xy: 74, 2
+  size: 116, 74
+  orig: 116, 74
+  offset: 0, 0
+  index: -1
+Red
+  rotate: false
+  xy: 204, 73
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 484, 65
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+pine
+  rotate: false
+  xy: 614, 65
+  size: 116, 166
+  orig: 116, 166
+  offset: 0, 0
+  index: -1
+farol
+  rotate: false
+  xy: 732, 71
+  size: 31, 160
+  orig: 31, 160
+  offset: 0, 0
+  index: -1
+Gray
+  rotate: false
+  xy: 765, 151
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+Blue
+  rotate: false
+  xy: 877, 151
+  size: 93, 80
+  orig: 93, 80
+  offset: 0, 0
+  index: -1
+barrel
+  rotate: false
+  xy: 765, 69
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+bush
+  rotate: false
+  xy: 316, 78
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+tbronze
+  rotate: false
+  xy: 972, 183
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+tgold
+  rotate: false
+  xy: 828, 101
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+tsilver
+  rotate: false
+  xy: 879, 101
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 404, 147
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 930, 105
+  size: 44, 44
+  split: 6, 6, 6, 6
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+gr2
+  rotate: false
+  xy: 192, 28
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+gr1
+  rotate: false
+  xy: 236, 28
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+gr3
+  rotate: false
+  xy: 280, 28
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 324, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 828, 67
+  size: 32, 32
+  split: 9, 9, 9, 9
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+roadline
+  rotate: false
+  xy: 862, 62
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
