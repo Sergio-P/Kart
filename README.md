@@ -11,7 +11,7 @@ If you want to play the latest official version of the game, you can find the fi
 
 
 ## Importing
-If you want to import the source code of the project to change some feauteres or add other ones. Yo have to follow this steps:
+If you want to import the source code of the project to change some feauteres or add other ones. You have to follow these steps:
 
 1. Create a new LibGDX game. Follow the instructions in the [official page](http://github.com/libgdx/libgdx/wiki/Project-Setup-Gradle). Now you will have the project schema of a LibGDX game.
 2. In [Project](http://github.com/Sergio-P/Kart/tree/master/Project) there are 2 subdirectories. Copy the content of `assets` to your assets folder.
